@@ -1,16 +1,15 @@
-## Hi there 👋
+🛠 Tim Schwind | Aspiring Developer & Creator
+Hey there! 👋 I'm Tim, an aspiring developer and creative mind. I'm currently exploring game development, Unreal Engine 5, networking, and programming while working on cool projects along the way.
+I'm not a coding expert (yet), but I'm always learning and excited to build something great! 🚀
 
-<!--
-**TimSchwind/TimSchwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 About Me
+🎮 Working on: A superpowered character game set across historical epochs (UE5)
+💡 Learning: Git, JavaScript, networking, and game development tools
+📈 Interested in: AI, creative storytelling, fitness, and tech
+🎤 Fun fact: I make music and write complex lyrics like MF DOOM
+🛠 Tech & Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimSchwind&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+💬 Feel free to reach out—I'm always up for discussing tech, games, and creative ideas!
