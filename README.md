@@ -11,7 +11,7 @@ I'm not a coding expert (yet), but I'm always learning and excited to build some
 🛠 Tech & Tools
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimSchwind&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimSchwind&layout=pie&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📫 Connect with Me \
